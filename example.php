@@ -3,9 +3,8 @@
 /**
  * Example of simple PHP wrapper for Footballi.net API
  * By NimaH79
- * NimaH79.ir
+ * NimaH79.ir.
  */
-
 require __DIR__.'/footballi-cli.php';
 
 $footballi = new Footballi();
